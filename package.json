@@ -37,7 +37,6 @@
     "bin",
     "lib",
     "scripts/postinstall.js",
-    "scripts/preuninstall.js",
     "scripts/pre-release.js",
     "package.json",
     "README.md",
